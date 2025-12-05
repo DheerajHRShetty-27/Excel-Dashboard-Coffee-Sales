@@ -3,7 +3,9 @@
 This repository contains an interactive **Excel-based Coffee Sales Performance Dashboard** designed to analyze sales trends, coffee type performance, customer contribution, and regional insights.  
 The dashboard was built entirely using **Microsoft Excel** with formulas, charts, slicers, and pivot tables.
 
-![Coffee Sales Performance Dashboard](images/coffee_sales_dashboard.png)
+![Coffee Sales Performance Dashboard](Screenshot%202025-12-05%20192324.png)
+
+
 
 ---
 
